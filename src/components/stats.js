@@ -8,7 +8,7 @@ const stats = () => {
         <p>Comparision with Ideal Software Engineer</p>
         <p className="time">September, 15</p>
       </div>
-          <img alt="image" style={{width:"100%"}} src="https://i.ibb.co/thY7PHg/Whats-App-Image-2023-09-18-at-22-58-03.jpg"/>
+          <img alt="imagez" style={{width:"100%"}} src="https://i.ibb.co/thY7PHg/Whats-App-Image-2023-09-18-at-22-58-03.jpg"/>
     </div>
     </div>
   )
