@@ -1,5 +1,4 @@
 import React from 'react'
-import graph from "./Images/graph.jpg"
 const stats = () => {
   return (
     <div className="projects-section">
